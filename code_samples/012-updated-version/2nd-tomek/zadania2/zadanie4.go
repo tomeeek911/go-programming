@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var x int = 42
+var x int = 44
 var y = x << 1
 
 func main() {

@@ -7,7 +7,10 @@ const (
 	b
 	c = iota
 	d
-	e
+	e = 42
+	f
+	g
+	h = iota
 )
 
 func main() {
@@ -16,4 +19,8 @@ func main() {
 	fmt.Println(c)
 	fmt.Println(d)
 	fmt.Println(e)
+	fmt.Println(f)
+	fmt.Println(g)
+	fmt.Println(h)
+
 }

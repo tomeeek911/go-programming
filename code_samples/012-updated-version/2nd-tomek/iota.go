@@ -8,7 +8,7 @@ const (
 	c = iota
 	d
 	e = 42
-	f
+	f = iota
 	g
 	h = iota
 )

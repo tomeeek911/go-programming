@@ -14,4 +14,4 @@ func main() {
 
 }
 
-/// << 1 sprawia, ze binarnie przesuwamy dodajemy na koncu jedno zero (przesuwamy binarnie w lewo) np.
+/// << 1 sprawia, ze dodajemy na koncu jedno zero (przesuwamy binarnie w lewo) np.
